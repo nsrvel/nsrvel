@@ -2,8 +2,10 @@
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100"/>
 </div>
 # 💫 About Me:
+
 Hi, my name is Vell, now I work as a backend developer, besides that I also like music, photography and videography
 
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nsrvel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/putra1pmo@gmail.com) 
