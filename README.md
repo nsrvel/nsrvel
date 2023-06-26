@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-#### Hi, my name is Rama,
+#### Hi, my name is rama,
 
 #### I'm currently working as a Backend developer
 
