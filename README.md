@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-#### Hi, my name is Vell,
+#### Hi, my name is Rama,
 
 #### I'm currently working as a Backend developer
 
