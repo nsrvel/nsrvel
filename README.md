@@ -20,19 +20,9 @@ Microservices · Search · Audit trails
 
 ![Isometric commit calendar](metrics.plugin.isocalendar.fullyear.svg)
 
-<table>
-<tr>
-<td width="50%">
-
 ![Languages in-depth](metrics.plugin.languages.indepth.svg)
 
-</td>
-<td width="50%">
-
-![Recently used](metrics.plugin.languages.recent.svg)
-
-</td>
-</tr>
+<table>
 <tr>
 <td>
 
