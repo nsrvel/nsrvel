@@ -1,33 +1,65 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="150"/>
-</div>
+# Putra Rama
 
-# 💫 About Me:
+Backend Developer — Go / TypeScript
 
-#### Hi, my name is rama,
+Building backend services for a large-scale, high-traffic marketplace platform. I work mostly on the parts users don't see: the APIs, validation rules, search, and audit trails that keep catalog, seller, and buyer flows consistent at scale.
 
-#### I'm currently working as a Backend developer
+## What I do
 
-#### I also like music, photography and videography
+- **Microservices & APIs** — Design and maintain Node.js / NestJS services in TypeScript behind an API gateway, using message-based patterns between services.
+- **Validation & data integrity** — Field-level validation, error formatting, SKU availability checks, bulk-import checks, and business rules like pre-order limits and category trees.
+- **Search & discovery** — Elasticsearch aggregations, filtering, and sorting for catalog and category browsing.
+- **Audit trails** — Actor-aware activity logs on writes, with auth checks on mutations and event tracking for admin-facing tools.
+- **Notifications** — Event-driven notifications and reminders, with lean payloads for client apps.
+- **Observability & delivery** — Kafka, Elasticsearch, and BigQuery in the data path; Docker, GCP / Cloud Run, Jenkins, Grafana / Loki / ELK around it.
 
-<br></br>
+## Tech stack
 
-## 🌐 Socials:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nsrvel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putra-rama-8093b4216/)
+## Side projects
 
-<br></br>
-## 💻 Tech Stack:
+- **[Kuma](https://github.com/nsrvel/kuma)** — Native macOS app to run and organize dev services (Docker, Kubernetes, shell, SSH) by workspace.
+- **[WiChat](https://github.com/nsrvel/wichat)** — Self-hosted, plugin-based team chat, written in Go.
+- **[WiNobar](https://github.com/nsrvel/winobar)** — Synchronized watch party with chat (Next.js + WebSocket).
+- **[WiTask](https://github.com/nsrvel/witask-personal)** — Personal task manager (Next.js, Drizzle, Better Auth).
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+I also build MCP servers and AI-assisted dev tooling — project-tracking and coding-agent integrations that run over HTTP, so they can be used from a laptop or a phone.
 
-<br></br>
-## 📊 GitHub Stats:
+## Metrics
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsrvel&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Generated with [lowlighter/metrics](https://github.com/lowlighter/metrics) via GitHub Action — see `.github/workflows/metrics.yml` in this repo. Classic template, with:
 
----
+- `base` — profile overview
+- `isocalendar` — full-year commit calendar
+- `languages` — in-depth + recent language activity
+- `achievements`, `habits`, `activity`, `lines` — contributions, coding habits, recent activity, lines changed
 
-[![](https://visitcount.itsvg.in/api?id=nsrvel&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- generated by lowlighter/metrics, committed to this repo by the Action -->
+![Metrics](metrics.svg)
+![Languages](metrics.plugin.languages.svg)
+![Commit calendar](metrics.plugin.isocalendar.svg)
+![Achievements](metrics.plugin.achievements.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Fallback, if the Action hasn't run yet:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nsrvel&show_icons=true&theme=vue-dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsrvel&theme=vue-dark&hide_border=true&layout=compact)
+
+## Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nsrvel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putra-rama-8093b4216/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/nsrvel)
